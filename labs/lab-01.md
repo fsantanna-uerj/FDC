@@ -1,9 +1,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></p>        
 
-Roteiro 2: Condicionais
+Roteiro 1: Condicionais
 =======================
 
-- Fazer todos os itens em um único arquivo, ex., `lab-02.py`.
+- Fazer todos os itens em um único arquivo, ex., `lab-01.py`.
 - Ao final, enviar um e-mail da seguinte forma:
     - *Para*: `francisco@ime.uerj.br`
     - Enviar uma cópia para o seu e-mail.
