@@ -34,11 +34,11 @@ Escreva um programa que leia três números: A, B e C.
 
 Em seguida, calcule e mostre:
 
-a) a área do triângulo retângulo que tem A por base e C por altura.
-b) a área do círculo de raio C. (pi = 3.14159)
-c) a área do trapézio que tem A e B por bases e C por altura.
-d) a área do quadrado que tem lado B.
-e) a área do retângulo que tem lados A e B. 
+- a área do triângulo retângulo que tem A por base e C por altura
+- a área do círculo de raio C (pi = 3.14159)
+- a área do trapézio que tem A e B por bases e C por altura
+- a área do quadrado que tem lado B
+- a área do retângulo que tem lados A e B.
 
 ## 3.
 
@@ -49,13 +49,15 @@ Ao final, o programa deve exibir a soma de todos os números lidos.
 
 Faça um programa que leia um número `N` e calcule o somatório a seguir:
 
-![](lab-04.png)
+![](sum.png)
 
 ## 5.
 
 O Campeonato Brasileiro está na reta final com 20 times na disputa.
+
 Uma vitória vale 3 pontos, um empate vale 1 ponto e uma derrota vale 0 pontos.
 Escreva um programa que, para cada time, leia o nome, número de vitórias,
 número de empates e número de derrotas.
+
 Ao final, o programa deve escrever o nome dos times com mais e menos pontos até
 o momento.
