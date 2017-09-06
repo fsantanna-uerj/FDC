@@ -8,9 +8,9 @@ Roteiro 1: Condicionais
     - *Para*: `francisco@ime.uerj.br`
     - Enviar uma cópia para o seu e-mail.
       **Ao desligar, todos os arquivos são removidos do computador.**
-    - *Assunto*: FDC, lab-02, João da Silva
+    - *Assunto*: FDC, lab-01, João da Silva
     - *Anexos*:
-        - `lab-02.py`
+        - `lab-01.py`
         - Para cada item, um *print screen* da tela de edição e outro da tela de execução
     - *Corpo*: Enumerar os exercícios que foram e não foram feitos, ex.:
 
