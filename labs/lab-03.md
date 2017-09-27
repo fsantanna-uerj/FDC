@@ -8,7 +8,7 @@ Roteiro 3: Simulado P1
     - *Para*: `francisco@ime.uerj.br`
     - Enviar uma cópia para o seu e-mail.
       **Ao desligar, todos os arquivos são removidos do computador.**
-    - *Assunto*: IPD, lab-03, João da Silva
+    - *Assunto*: FDC, lab-03, João da Silva
     - *Anexos*:
         - `lab-03.py`
         - Para cada item, um *print screen* da tela de edição e outro da tela de execução
@@ -22,7 +22,7 @@ Seguem arquivos em anexo...
 
 ## 1.
 
-Um aluno de IPD está nos Estados Unidos durante o outono e precisa decidir se
+Um aluno está nos Estados Unidos durante o outono e precisa decidir se
 vai sair na rua de blusa (a partir de 25C), casaco leve (a partir de 15C) ou
 casaco pesado (caso esteja ainda mais frio).
 Lá, as temperaturas são exibidas em Fahrenheit, que pode ser convertido para
