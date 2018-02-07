@@ -47,7 +47,7 @@ Listas
         3. repete o passo `b`
 5. .
     - criar duas listas `LA` e `LB`
-    - criar uma nova lista `LC` com os valores que aparecem em `LA` e em `LB`,
+    - criar uma nova lista `LC` com os valores que aparecem em `LA` ou em `LB`,
       ou seja, a união entre `LA` e `LB`
         - `LC` não deve ter repetições, ou seja, o mesmo número não deve
           aparecer duas vezes
