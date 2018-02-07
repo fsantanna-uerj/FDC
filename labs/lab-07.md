@@ -1,4 +1,4 @@
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></p>        
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></p>
 
 Roteiro 7: Strings
 ==================
@@ -20,9 +20,9 @@ Não: 4 ao 5
 Seguem arquivos em anexo...
 ```
 
-<https://github.com/fsantanna/FDC/blob/master/slides/fdc-04-strings.pdf>
+<https://github.com/fsantanna-uerj/FDC/blob/master/slides/fdc-04-strings.pdf>
 
-<https://github.com/fsantanna/FDC/blob/master/slides/fdc-05-strings.pdf>
+<https://github.com/fsantanna-uerj/FDC/blob/master/slides/fdc-05-strings.pdf>
 
 1. .
     - ler do teclado um número `v1`
