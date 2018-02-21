@@ -1,6 +1,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></p>        
 
-Roteiro 9: Funções
+Roteiro 8: Funções
 ==================
 
 - Fazer todos os itens em um único arquivo, ex., `lab-08.py`.
