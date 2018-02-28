@@ -14,7 +14,7 @@ Sugestões:
 Listas
 ------
 
-<https://github.com/fsantanna/FDC/blob/master/slides/fdc-07-matrizes.pdf>
+<https://github.com/fsantanna-uerj/FDC/blob/master/slides/fdc-07-matrizes.pdf>
 
 1. .
     - criar uma matriz `m1`, ex.:

@@ -20,7 +20,7 @@ Não: 4 e 5
 Seguem arquivos em anexo...
 ```
 
-<https://github.com/fsantanna/FDC/blob/master/slides/fdc-06-funs.pdf>
+<https://github.com/fsantanna-uerj/FDC/blob/master/slides/fdc-06-funs.pdf>
 
 O código a seguir define a função `soma` que recebe dois valores como
 parâmetros e retorna a soma entre eles:
