@@ -54,5 +54,5 @@ matriz = [ [1,2], [3,4] ]
 soma = soma_diagonal(matriz)
 print(soma)
 ```
-7. Definir uma função `inverte(M)` que recebe uma matriz e retorna uma nova
-   matriz invertida.
+7. Definir uma função `transposta(M)` que recebe uma matriz e retorna uma nova
+   matriz transposta.
