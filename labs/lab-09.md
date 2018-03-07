@@ -3,13 +3,22 @@
 Roteiro 9: Matrizes
 ===================
 
-Ao final, enviar o *print screen* da tela de edição e da tela de execução.
-
-Sugestões:
-
 - Fazer todos os itens em um único arquivo, ex., `lab-09.py`.
-- Enviar o arquivo para o seu e-mail.
-  **Ao desligar, todos os arquivos são removidos do computador.**
+- Ao final, enviar um e-mail da seguinte forma:
+    - *Para*: `francisco@ime.uerj.br`
+    - Enviar uma cópia para o seu e-mail.
+      **Ao desligar, todos os arquivos são removidos do computador.**
+    - *Assunto*: FDC, lab-09, João da Silva
+    - *Anexos*:
+        - `lab-09.py`
+        - Para cada item, um *print screen* da tela de edição e outro da tela de execução
+    - *Corpo*: Enumerar os exercícios que foram e não foram feitos, ex.:
+
+```
+Sim: 1 ao 3
+Não: 4 ao 7
+Seguem arquivos em anexo...
+```
 
 Listas
 ------

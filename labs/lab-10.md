@@ -3,13 +3,22 @@
 Roteiro 10: Arquivos
 ====================
 
-Ao final, enviar o *print screen* da tela de edição e da tela de execução.
-
-Sugestões:
-
 - Fazer todos os itens em um único arquivo, ex., `lab-10.py`.
-- Enviar o arquivo para o seu e-mail.
-  **Ao desligar, todos os arquivos são removidos do computador.**
+- Ao final, enviar um e-mail da seguinte forma:
+    - *Para*: `francisco@ime.uerj.br`
+    - Enviar uma cópia para o seu e-mail.
+      **Ao desligar, todos os arquivos são removidos do computador.**
+    - *Assunto*: FDC, lab-10, João da Silva
+    - *Anexos*:
+        - `lab-10.py`
+        - Para cada item, um *print screen* da tela de edição e outro da tela de execução
+    - *Corpo*: Enumerar os exercícios que foram e não foram feitos, ex.:
+
+```
+Sim: 1 ao 3
+Não: 4 ao 6
+Seguem arquivos em anexo...
+```
 
 <https://github.com/fsantanna-uerj/FDC/blob/master/slides/fdc-08-arquivos.pdf>
 
