@@ -48,7 +48,7 @@ Por exemplo, `soma_linhas([1,2],[3,4],[5,6])` deve retornar
 ## 4. (listas, matrizes, e funções)
 
 Crie a função `expande(lista)` que receba uma lista de pares com o formato
-`[ [V0,N0], ..., [Vn,Nn] ]} e retorne uma lista expandida na qual cada `Vi` da
+`[ [V0,N0], ..., [Vn,Nn] ]` e retorne uma lista expandida na qual cada `Vi` da
 lista recebida deve ser repetido `Ni` vezes na lista expandida.
 Por exemplo, `expande([[3,4],[7,3],[13,2],[23,1]]` deve retornar
 `[3,3,3,3,7,7,7,13,13,23]`.
