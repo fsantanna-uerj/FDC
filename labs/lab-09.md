@@ -20,10 +20,9 @@ Não: 4 ao 7
 Seguem arquivos em anexo...
 ```
 
-Listas
-------
-
 <https://github.com/fsantanna-uerj/FDC/blob/master/slides/fdc-07-matrizes.pdf>
+
+**Nunca use o operador `*` para construir matrizes (usar `append`).**
 
 1. .
     - criar uma matriz `m1`, ex.:
@@ -52,7 +51,7 @@ Listas
     - exibir a matriz
     - (precisa de *loops* aninhados)
 5. .
-    - calcular a soma da diagonal principal de `m3`
+    - calcular a soma da diagonal principal de `m4`
 6.   .
     - definir a função que calcula a soma da diagonal principal de uma matriz:
 ```
